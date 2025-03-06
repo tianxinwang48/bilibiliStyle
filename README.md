@@ -8,5 +8,4 @@
 
 
 效果如下：
-![chrome-capture-2025-2-6 (1)](https://github.com/user-attachments/assets/fdf9b79d-b71b-42e0-8ebb-8814ec209e13)
-
+![Uploading chrome-capture-2025-2-6 (1).gif…]()
